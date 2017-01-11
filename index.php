@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<?php
-		echo "Hello world......comp4711 lab01";
+		echo "Hello world......comp4711 lab01.";
 		?>
 	</body>
 </html>
